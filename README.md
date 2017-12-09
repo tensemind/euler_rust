@@ -7,4 +7,5 @@ Solved problems:
 2   -   Even Fibonacci numbers <br />
 3   -   Largest prime factor <br />
 4   -   Largest palindrome product <br />
-5   -   Smallest multiple
+5   -   Smallest multiple <br />
+6   -   Sum square difference
