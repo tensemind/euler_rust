@@ -15,3 +15,4 @@ fn main() {
     }
     println!("{:?}", palindromes.iter().max());
 }
+ 
