@@ -8,4 +8,5 @@ Solved problems:
 3   -   Largest prime factor <br />
 4   -   Largest palindrome product <br />
 5   -   Smallest multiple <br />
-6   -   Sum square difference
+6   -   Sum square difference <br />
+7   -   10001st prime
