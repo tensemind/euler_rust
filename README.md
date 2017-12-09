@@ -5,4 +5,5 @@ Solved problems:
 
 1   -   Multiples of 3 and 5 <br />
 2   -   Even Fibonacci numbers <br />
-3   -   Largest prime factor
+3   -   Largest prime factor <br />
+4   -   Largest palindrome product
