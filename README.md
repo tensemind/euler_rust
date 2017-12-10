@@ -9,4 +9,5 @@ Solved problems:
 4   -   Largest palindrome product <br />
 5   -   Smallest multiple <br />
 6   -   Sum square difference <br />
-7   -   10001st prime
+7   -   10001st prime <br />
+8   -   Largest product in a series
