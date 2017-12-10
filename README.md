@@ -10,4 +10,5 @@ Solved problems:
 5   -   Smallest multiple <br />
 6   -   Sum square difference <br />
 7   -   10001st prime <br />
-8   -   Largest product in a series
+8   -   Largest product in a series <br />
+9   -   Special Pythagorean triplet
