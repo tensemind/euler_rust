@@ -1,5 +1,6 @@
 # euler_rust
-Euler math problems implemented in rust. 
+Euler math problems in rust for learning purposes.
+Only standard library this far.  
 
 Solved problems:
 
@@ -13,4 +14,6 @@ Solved problems:
 8   -   Largest product in a series <br />
 9   -   Special Pythagorean triplet <br />
 10  -   Summation of primes <br />
-11  -   Largest product in a grid
+11  -   Largest product in a grid <br />
+12  -   Highly divisible triangular number <br />
+13  -   Large sum
