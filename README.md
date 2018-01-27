@@ -11,4 +11,5 @@ Solved problems:
 6   -   Sum square difference <br />
 7   -   10001st prime <br />
 8   -   Largest product in a series <br />
-9   -   Special Pythagorean triplet
+9   -   Special Pythagorean triplet <br />
+10  -   Summation of primes
