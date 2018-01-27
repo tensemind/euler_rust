@@ -12,4 +12,5 @@ Solved problems:
 7   -   10001st prime <br />
 8   -   Largest product in a series <br />
 9   -   Special Pythagorean triplet <br />
-10  -   Summation of primes
+10  -   Summation of primes <br />
+11  -   Largest product in a grid
