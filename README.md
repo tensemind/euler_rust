@@ -16,4 +16,5 @@ Solved problems:
 10  -   Summation of primes <br />
 11  -   Largest product in a grid <br />
 12  -   Highly divisible triangular number <br />
-13  -   Large sum
+13  -   Large sum <br />
+14  -   Longest Collatz sequence
